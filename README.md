@@ -6,7 +6,7 @@
  - 🌱 I’m currently learning **at Saigon University, class of '24**
  
  - 📫 How to reach me **thtien.2606@gmail.com**
- ![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)
+
  <h3 align="left">Connect with me:</h3>
  <p align="left">
  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100010545886670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010545886670" height="30" width="40" /></a>
