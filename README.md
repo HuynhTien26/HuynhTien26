@@ -1,7 +1,7 @@
  [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/618395ed-3302-4408-bcd8-4ce51cc8b364/devuvri-72d83bb8-2c95-4c1e-8e80-408a5fc90c63.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxODM5NWVkLTMzMDItNDQwOC1iY2Q4LTRjZTUxY2M4YjM2NFwvZGV2dXZyaS03MmQ4M2JiOC0yYzk1LTRjMWUtOGU4MC00MDhhNWZjOTBjNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FXQlzRsSZOJ1es_xcXulz8ZHGBBlButmhRuklrhLKbY)](https://github.com/HuynhTien26)
  <h1 align="center">Hi 👋, I'm Huỳnh Tiên</h1>
  <h3 align="center">A passionate frontend developer from Viet Nam</h3>
- <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/ae/6b/3d/ae6b3db10aea85acb90fffccd284a349.gif">
+ <img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif">
  
  - 🌱 I’m currently learning **at Saigon University, class of '24**
  - 📫 Contact **thtien.2606@gmail.com**
